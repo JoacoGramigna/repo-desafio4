@@ -112,6 +112,10 @@ header {
     font-size: 20px;
 }
 
+.menuNavegacionCompra a:hover {
+    text-decoration: underline;
+}
+
 /* MAIN */
 .gridContainerMain {
     display: grid;
